@@ -15,4 +15,4 @@ Inputs should be like:
 3 5 23 
 
 
-(First line represents amount of vertex and edge.)
+(First line represents amount of vertex and edge. Other lines represents 'from', 'to', 'weight')
